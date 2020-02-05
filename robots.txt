@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sogoomoeng.joakimengstrom.com/sitemap.xml
